@@ -1,0 +1,12 @@
+{
+  "response": [
+    {
+      "maintainer": "Maintainer Name",
+      "device": "Device Name",
+      "filename": "ScandiumOS-v1.0-OFFICIAL.zip",
+      "url": "https://t.me/ScandiumUIUpdates",
+      "version": "v1.0",
+      "romtype": "Official"
+    }
+  ]
+}
