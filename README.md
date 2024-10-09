@@ -21,3 +21,6 @@ In order for a device to be OTA compliant, there are a few things to know.
   ]
 }
 ```
+
+### To Get JSON After Build Completed
+You can obtain the JSON files at out/target/product/product_device/product_device.json
