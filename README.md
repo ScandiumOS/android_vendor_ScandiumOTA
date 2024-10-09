@@ -10,11 +10,13 @@ In order for a device to be OTA compliant, there are a few things to know.
   "response": [
     {
       "maintainer": "Maintainer Name",
-      "device": "Device Name",
+      "device": "Devices Name",
       "filename": "ScandiumOS-v1.0-OFFICIAL.zip",
-      "url": "https://t.me/ScandiumUIUpdates",
+      "timestamp": "199167575",
+      "md5": "41ce8869f4b",
+      "size": "716918528",
       "version": "v1.0",
-      "romtype": "Official"
+      "romtype": "OFFICIAL"
     }
   ]
 }
